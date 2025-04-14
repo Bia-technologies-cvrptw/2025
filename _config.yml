@@ -1,0 +1,7 @@
+title: BIA CVRPTW 2025
+theme: minima  # Стандартная тема
+markdown: kramdown
+remove_footer_title: true
+author: BIA Technologies
+plugins:
+  - jekyll-feed
